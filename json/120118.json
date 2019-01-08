@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "静海区",
+        "adcode": "120118",
+        "telecode": "022",
+        "level": "district",
+        "center": { "lat": 116.925304, "lng": 38.935671 }
+      }
+    }
+  ]
+}
