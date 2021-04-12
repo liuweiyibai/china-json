@@ -6,4 +6,4 @@
 
 ## 获取最新json的方法
 
-[传送门](https://gitee.com/hotblin/china-geoJson)
+[传送门](https://gitee.com/liuweiyibai/china-geoJson)
