@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u65b0\u5efa\u533a", "adcode": "360112", "telecode": "0791", "level": "district", "center": {"lat": 115.820806, "lng": 28.690788}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "新建区",
+				"adcode": "360112",
+				"telecode": "0791",
+				"level": "district",
+				"center": {
+					"lat": 115.820806,
+					"lng": 28.690788
+				}
+			}
+		}
+	]
+}

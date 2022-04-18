@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u6717\u53bf", "adcode": "540426", "telecode": "0894", "level": "district", "center": {"lat": 93.073429, "lng": 29.0446}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "朗县",
+				"adcode": "540426",
+				"telecode": "0894",
+				"level": "district",
+				"center": {
+					"lat": 93.073429,
+					"lng": 29.0446
+				}
+			}
+		}
+	]
+}

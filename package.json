@@ -1,0 +1,29 @@
+{
+  "name": "china-json",
+  "version": "1.0.0",
+  "description": "获取全国省市区的 geoJson 数据",
+  "main": "main.js",
+  "scripts": {
+    "go": "node ./main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuweiyibai/china-json.git"
+  },
+  "keywords": [
+    "map",
+    "echarts",
+    "GeoJson",
+    "地图"
+  ],
+  "author": "liuweiyibai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuweiyibai/china-json/issues"
+  },
+  "homepage": "https://github.com/liuweiyibai/china-json#readme",
+  "dependencies": {
+    "got": "^12.0.3",
+    "rimraf": "^3.0.2"
+  }
+}

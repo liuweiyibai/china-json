@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u6d77\u897f\u8499\u53e4\u65cf\u85cf\u65cf\u81ea\u6cbb\u5dde\u76f4\u8f96", "adcode": "632825", "telecode": "0977", "level": "district", "center": {"lat": 95.357233, "lng": 37.853631}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "海西蒙古族藏族自治州直辖",
+				"adcode": "632825",
+				"telecode": "0977",
+				"level": "district",
+				"center": {
+					"lat": 95.357233,
+					"lng": 37.853631
+				}
+			}
+		}
+	]
+}

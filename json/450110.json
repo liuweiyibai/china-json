@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u6b66\u9e23\u533a", "adcode": "450110", "telecode": "0771", "level": "district", "center": {"lat": 108.280717, "lng": 23.157163}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "武鸣区",
+				"adcode": "450110",
+				"telecode": "0771",
+				"level": "district",
+				"center": {
+					"lat": 108.280717,
+					"lng": 23.157163
+				}
+			}
+		}
+	]
+}

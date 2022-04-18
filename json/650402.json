@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u9ad8\u660c\u533a", "adcode": "650402", "telecode": "0995", "level": "district", "center": {"lat": 89.182324, "lng": 42.947627}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "高昌区",
+				"adcode": "650402",
+				"telecode": "0995",
+				"level": "district",
+				"center": {
+					"lat": 89.182324,
+					"lng": 42.947627
+				}
+			}
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u5bdf\u9685\u53bf", "adcode": "540425", "telecode": "0894", "level": "district", "center": {"lat": 97.465002, "lng": 28.660244}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "察隅县",
+				"adcode": "540425",
+				"telecode": "0894",
+				"level": "district",
+				"center": {
+					"lat": 97.465002,
+					"lng": 28.660244
+				}
+			}
+		}
+	]
+}

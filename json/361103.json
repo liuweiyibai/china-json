@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u5e7f\u4e30\u533a", "adcode": "361103", "telecode": "0793", "level": "district", "center": {"lat": 118.189852, "lng": 28.440285}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "广丰区",
+				"adcode": "361103",
+				"telecode": "0793",
+				"level": "district",
+				"center": {
+					"lat": 118.189852,
+					"lng": 28.440285
+				}
+			}
+		}
+	]
+}

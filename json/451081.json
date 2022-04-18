@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u9756\u897f\u5e02", "adcode": "451081", "telecode": "0776", "level": "district", "center": {"lat": 106.417549, "lng": 23.134766}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "靖西市",
+				"adcode": "451081",
+				"telecode": "0776",
+				"level": "district",
+				"center": {
+					"lat": 106.417549,
+					"lng": 23.134766
+				}
+			}
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u5e73\u5b89\u533a", "adcode": "630203", "telecode": "0972", "level": "district", "center": {"lat": 102.104295, "lng": 36.502714}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "平安区",
+				"adcode": "630203",
+				"telecode": "0972",
+				"level": "district",
+				"center": {
+					"lat": 102.104295,
+					"lng": 36.502714
+				}
+			}
+		}
+	]
+}

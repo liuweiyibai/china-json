@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u5f90\u6c34\u533a", "adcode": "130609", "telecode": "0312", "level": "district", "center": {"lat": 115.64941, "lng": 39.020395}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "徐水区",
+				"adcode": "130609",
+				"telecode": "0312",
+				"level": "district",
+				"center": {
+					"lat": 115.64941,
+					"lng": 39.020395
+				}
+			}
+		}
+	]
+}

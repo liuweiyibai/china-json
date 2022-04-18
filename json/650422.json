@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u6258\u514b\u900a\u53bf", "adcode": "650422", "telecode": "0995", "level": "district", "center": {"lat": 88.655771, "lng": 42.793536}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "托克逊县",
+				"adcode": "650422",
+				"telecode": "0995",
+				"level": "district",
+				"center": {
+					"lat": 88.655771,
+					"lng": 42.793536
+				}
+			}
+		}
+	]
+}

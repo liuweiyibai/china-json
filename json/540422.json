@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": null, "properties": {"name": "\u7c73\u6797\u53bf", "adcode": "540422", "telecode": "0894", "level": "district", "center": {"lat": 94.213679, "lng": 29.213811}}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": null,
+			"properties": {
+				"name": "米林县",
+				"adcode": "540422",
+				"telecode": "0894",
+				"level": "district",
+				"center": {
+					"lat": 94.213679,
+					"lng": 29.213811
+				}
+			}
+		}
+	]
+}
